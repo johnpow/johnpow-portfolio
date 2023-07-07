@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/johnpow-portfolio/static/css/main.c66c8a13.css",
-    "main.js": "/johnpow-portfolio/static/js/main.ae0b6ae7.js",
+    "main.css": "/johnpow-portfolio/static/css/main.e2551672.css",
+    "main.js": "/johnpow-portfolio/static/js/main.d2c2c3cc.js",
     "static/media/me.png": "/johnpow-portfolio/static/media/me.b3fb57e073dc02903837.png",
+    "static/media/resume.png": "/johnpow-portfolio/static/media/resume.2be09e8ec75ab96c2fa2.png",
+    "static/media/resume.pdf": "/johnpow-portfolio/static/media/resume.764344f7331400522b55.pdf",
     "index.html": "/johnpow-portfolio/index.html",
-    "main.c66c8a13.css.map": "/johnpow-portfolio/static/css/main.c66c8a13.css.map",
-    "main.ae0b6ae7.js.map": "/johnpow-portfolio/static/js/main.ae0b6ae7.js.map"
+    "main.e2551672.css.map": "/johnpow-portfolio/static/css/main.e2551672.css.map",
+    "main.d2c2c3cc.js.map": "/johnpow-portfolio/static/js/main.d2c2c3cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c66c8a13.css",
-    "static/js/main.ae0b6ae7.js"
+    "static/css/main.e2551672.css",
+    "static/js/main.d2c2c3cc.js"
   ]
 }
