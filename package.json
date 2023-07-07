@@ -1,7 +1,8 @@
 {
   "name": "myportfolio",
   "version": "0.1.0",
-  "homepage": "https://johnpow.github.io/portfolio/",
+  "homepage": "https://johnpow.github.io/johnpow-portfolio/",
+  "proxy": "http://localhost:3000",
   "private": "false",
   "dependencies": {
     "@emotion/react": "^11.11.1",
