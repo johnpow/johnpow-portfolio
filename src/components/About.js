@@ -1,5 +1,5 @@
-import React from 'react';
-import myImage from '../images/me.png';
+import React from "react";
+import myImage from "../images/me.png";
 
 const About = () => {
   return (
@@ -10,17 +10,30 @@ const About = () => {
       <div className="text-container">
         <h2>About</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a ligula eu mauris tempus
-          efficitur. Fusce semper nunc id arcu tempus, vitae tincidunt lectus blandit. Nullam
-          tristique arcu a justo feugiat efficitur. Morbi iaculis feugiat diam, ac tincidunt dolor
-          posuere et. In nec ex malesuada, blandit nisl vitae, rutrum turpis. Sed id justo pretium,
-          bibendum dolor id, aliquam ipsum. Morbi sed sollicitudin metus. Etiam eu risus non nunc
-          volutpat varius. Nullam quis orci sed libero luctus euismod vel ac purus. Sed at tortor ut
-          ipsum volutpat vulputate. Vestibulum gravida, nunc vel luctus vulputate, risus ligula
-          dignissim felis, sit amet sollicitudin orci sem nec ex. Sed sed dolor vitae leo faucibus
-          posuere at non metus. Ut malesuada lectus a velit viverra, eget tempor erat congue. Fusce
-          malesuada semper ante ac iaculis. Curabitur fermentum libero non nisi convallis, a volutpat
-          dolor accumsan.
+          John is a skilled data analytics professional and a proven leader with
+          a track record of success. John is a dedicated professional with
+          13+ years of experience in data analytics and science roles
+          at leading companies such as Amazon, Data Republic, Quantium, and
+          dunnhumby. Currently serving as Manager of Analytics & Data Science at
+          Amazon Grocery Instore & Ads, he excels in leveraging data to drive
+          business insights and make informed decisions. John's academic
+          background includes a Master's degree in Business Administration and a
+          Bachelor's degree in Mathematics and Statistics. 
+        </p>
+        <p>
+          As a continuous learner, he recently completed a Full Stack
+          Development Bootcamp with UC Berkeley for personal/professional growth and interest. This demonstrates
+          his passion for expanding his skill set and staying updated with the
+          latest technologies. With a passion for problem-solving and a drive
+          for excellence, John consistently delivers exceptional results in his
+          work. His ability to adapt to new challenges, his dedication to
+          continuous improvement, and his commitment to achieving excellence
+          make him a valuable asset to any team.
+        </p>
+        <p>
+          John's leadership, coupled with his commitment to personal growth and
+          his strong problem-solving skills, sets him apart as a versatile and
+          accomplished professional.
         </p>
       </div>
     </div>

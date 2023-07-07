@@ -129,6 +129,7 @@ nav {
     flex-basis: 15%; /* Set the width of the image container to 20% */
     max-width: 20vw; /* Set the maximum width of the image container to 20% of the viewport width */
     margin-right: 20px; /* Adjust the spacing between the image and text container as needed */
+    align-items: center;
   }
   
   .image-container img {
@@ -140,6 +141,7 @@ nav {
     flex-grow: 1;
     max-width: 70vw;
   }
+  
   
   @media (max-width: 768px) {
     .about-container {
